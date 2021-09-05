@@ -7,8 +7,8 @@
 
 
 - 🌱 I’m currently exploring computer science field
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn and gain maximum knowledge about CS
+- 👯 I am looking for more opportunities in the field of IT
+- 🥅 2021 Goals: Learn and gain maximum knowledge about Flutter and dart
 - ⚡ Fun fact: I love to code and play guitar 
 
 ### Connect with me:
