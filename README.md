@@ -1,7 +1,7 @@
 ### Hi there, I'm Maaz Ahmed 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/maazahmed44?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/maazahmed44?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmaazahmed44&screen_name=maazahmed44)
 
 ## I'm a Student, Learner, Developer, and Guitarist!!
 
